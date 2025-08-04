@@ -1,4 +1,3 @@
-version: '3'
 services:
   # install gateway in host machine
   # for debian system, we use `apt install nginx -y`
